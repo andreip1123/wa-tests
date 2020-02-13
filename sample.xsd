@@ -9,7 +9,7 @@
     </xs:element>
     <xs:element name="p">
         <xs:complexType mixed="true">
-            <xs:attribute name="lang" type="xs:NCName" default="fr"/>
+            <xs:attribute name="lang" type="xs:NCName" default="en"/>
         </xs:complexType>
     </xs:element>
 </xs:schema>
