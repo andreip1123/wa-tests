@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_fd4_5dk_jp">
+  <title>Content title</title>
+  <body>
+    <p id="paragraphID">Some test content.</p>
+    <p conkeyref="keyNumberTwo/paragraphID2"/>
+    
+  </body>
+</topic>
